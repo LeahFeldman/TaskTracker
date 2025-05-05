@@ -9,4 +9,4 @@ Users can add and remove custom tasks to their to-do list.
 Task Tracker uses React + Vite to bring you expertise in app creation.
 
 ## Visit Us
-[Check out the lates version of Task Tracker](https://leahfeldman.github.io/TaskTracker/)
+Check out the latest version of [Task Tracker](https://leahfeldman.github.io/TaskTracker/)
